@@ -8,6 +8,9 @@
 - 📫 How to reach me: quhiquhihi@gmail.com , I cannot disclose my name due to regulation of Financial supervision authority
 - ⚡ Fun fact: I love boxing and diving
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuhiQuhihi&show_icons=true&theme=radical)
+
+
 <!--
 **QuhiQuhihi/QuhiQuhihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
