@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fintech(Asset Management) Startup in Korea as Quantitative Researcher.
-- 🌱 I’m currently learning Deep Learning, Reinforcement Learning for time-series, NLP area. 
+- 🔭 I’m currently working on Fintech(Asset Management) Company in Korea as Quantitative Researcher.
+- 🌱 I’m currently learning Reinforcement Learning, NLP to apply for finance industry. 
 - 👯 I’m looking to collaborate on Systematic Decision Making and Data Analytics
 
 - 💬 Ask me about quantitative investment strategy 
-- 📫 How to reach me: quhiquhihi@gmail.com , I cannot disclose my name due to regulation of Financial supervision authority
+- 📫 How to reach me: quhiquhihi@gmail.com
 - ⚡ Fun fact: I love boxing and diving
 
 <a href="https://quhiquhihi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-FFCA28?style=flat-square&logo=HomeAdvisor&logoColor=White"/></a>
