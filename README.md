@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fintech(Asset Management) Company in Korea as Quantitative Researcher.
-- 🌱 I’m currently learning Reinforcement Learning, NLP to apply for finance industry. 
+- 🔭 I’m currently working in Fintech(Asset Management) Company as Quantitative Researcher.
+- 🌱 I’m currently learning Reinforcement Learning, Graph, and Causal Learning to apply for finance industry. 
 - 👯 I’m looking to collaborate on Systematic Decision Making and Data Analytics
 
 - 💬 Ask me about quantitative investment strategy 
