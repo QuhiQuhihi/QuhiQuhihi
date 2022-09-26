@@ -7,10 +7,10 @@
 
 - 💬 Ask me about quantitative investment strategy 
 
-- 📫 How to reach me : Use below channel
--- ✨ Email : quhiquhihi@gmail.com
--- ✨ Blog : https://quhiquhihi.github.io/
--- ✨ LinkedIn : https://www.linkedin.com/in/daham-kim/
+- 📫 How to reach me : Use below channels
+- ✨ Email : quhiquhihi@gmail.com
+- ✨ Blog : https://quhiquhihi.github.io/
+- ✨ LinkedIn : https://www.linkedin.com/in/daham-kim/
 
 
 <a href="https://quhiquhihi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-FFCA28?style=flat-square&logo=HomeAdvisor&logoColor=White"/></a>
