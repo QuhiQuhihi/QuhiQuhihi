@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Fintech(Asset Management) Company as Quantitative Researcher.
-- 🌱 I’m currently interested in Reinforcement Learning and Causal Inference to apply for finance industry. 
-- 👯 I’m looking to collaborate on Sequential Decision Analytics and Causal Inference
+- 🌱 I’m currently interested in Machone Learning application for business decision making process. 
+- 👯 I’m looking to collaborate on Sequential Decision Analytics, Reinforcement Learning and Causal Inference
 - ⚡ Fun fact: I love boxing and diving. Buddies are always welcome. 
 
 - 💬 Ask me about quantitative investment strategy 
