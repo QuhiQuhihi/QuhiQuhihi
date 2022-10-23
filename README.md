@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Fintech(Asset Management) Company as Quantitative Researcher.
 - 🌱 I’m currently interested in Machine Learning application for decision analytics in business. 
 - 👯 I’m looking to collaborate on Sequential Decision Analytics, Reinforcement Learning and Causal Inference.
-- ⚡ Fun fact: I love boxing and diving. Buddies are always welcome. 
+- ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
 - 💬 Ask me about quantitative investment strategy 
 
