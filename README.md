@@ -10,7 +10,6 @@
 
 - 📫 How to reach me : Use below channels
   - ✨ Email : quhiquhihi@gmail.com
-  - ✨ Blog : https://quhiquhihi.github.io/
   - ✨ LinkedIn : https://www.linkedin.com/in/daham-kim/
 
 
