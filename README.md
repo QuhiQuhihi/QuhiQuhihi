@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Sequential Decision Analytics, Reinforcement Learning and Causal Inference.
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
-- 💬 Ask me about quantitative investment strategy 
+- 💬 Please visit my blog : https://quhiquhihi.github.io/
+
 
 - 📫 How to reach me : Use below channels
   - ✨ Email : quhiquhihi@gmail.com
