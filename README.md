@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 I’m currently graduate school student at Cornell University.
+- 🤔 I’m a graduate school student at Cornell University.
 - 🔭 I’m worked at Asset Management Company as Quantitative Researcher.
 - 🌱 I’m currently interested in Machine Learning application for decision analytics in finance. 
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
