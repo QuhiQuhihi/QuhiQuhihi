@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Fintech(Asset Management) Company as Quantitative Researcher.
-- 🌱 I’m currently interested in Machine Learning application for decision analytics in business. 
-- 👯 I’m looking to collaborate on Sequential Decision Analytics, Reinforcement Learning and Causal Inference.
+- 🤔 I’m currently graduate school student at Cornell University.
+- 🔭 I’m worked at Asset Management Company as Quantitative Researcher.
+- 🌱 I’m currently interested in Machine Learning application for decision analytics in finance. 
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
 - 💬 Please visit my blog : https://quhiquhihi.github.io/
