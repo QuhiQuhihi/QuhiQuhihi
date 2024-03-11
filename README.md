@@ -6,21 +6,14 @@
 - 📊 I've been focusing on fixed income and credit investment, utilizing a systematic or machine learning driven approach.
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
-- 💬 Please visit my blog : <a href="https://quhiquhihi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-FFCA28?style=flat-square&logo=HomeAdvisor&logoColor=White"/></a>
+- 💬 Please visit my blog : https://quhiquhihi.github.io/ <a href="https://quhiquhihi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-FFCA28?style=flat-square&logo=HomeAdvisor&logoColor=White"/></a>
 
 - 📫 How to reach me : Use below channels
-  - ✨ Email : <a href="quhiquhihi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  - ✨ LinkedIn : <a href="https://www.linkedin.com/in/daham-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  - ✨ Email : quhiquhihi@gmail.com <a href="quhiquhihi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  - ✨ LinkedIn : https://www.linkedin.com/in/daham-kim/ <a href="https://www.linkedin.com/in/daham-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
-
-
-<a href="https://quhiquhihi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-FFCA28?style=flat-square&logo=HomeAdvisor&logoColor=White"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuhiQuhihi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="quhiquhihi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/daham-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuhiQuhihi&show_icons=true&theme=radical)
 
