@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🤔 I’m a graduate school student at Cornell University.
-- 🔭 I’m worked at Asset Management Company as Quantitative Researcher.
-- 🌱 I’m currently interested in Machine Learning application for decision analytics in finance. 
+- 🔭 I worked as Quantitative Researcher at Asset Management Company and Asset Actuary at Insurnace Industry.
+- 🌱 I'm keen on exploring the use of Machine Learning in finance, particularly in the area of systematic investing.
+- 🌱 I've been focusing on fixed income and credit investment, utilizing a systematic or machine learning driven approach.
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
 - 💬 Please visit my blog : https://quhiquhihi.github.io/
