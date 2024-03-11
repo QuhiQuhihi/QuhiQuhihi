@@ -3,7 +3,7 @@
 - 🤔 I’m a graduate school student at Cornell University.
 - 🔭 I worked as Quantitative Researcher at Asset Management Company and Asset Actuary at Insurnace Industry.
 - 🌱 I'm keen on exploring the use of Machine Learning in finance, particularly in the area of systematic investing.
-- 🌱 I've been focusing on fixed income and credit investment, utilizing a systematic or machine learning driven approach.
+- 📊 I've been focusing on fixed income and credit investment, utilizing a systematic or machine learning driven approach.
 - ⚡ Fun fact: I love boxing and diving. Dive buddies and sparring partners are always welcome. 
 
 - 💬 Please visit my blog : https://quhiquhihi.github.io/
@@ -18,6 +18,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuhiQuhihi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuhiQuhihi&show_icons=true&theme=radical)
+
+<a href="https://www.linkedin.com/in/daham-kim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <!--
